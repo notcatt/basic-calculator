@@ -13,6 +13,7 @@
 <li>A functionality was also implemented where it is only possible to add numbers, thus reducing the possibility of vulnerabilities for the user.</li>  
 </ul>
 </br>
-![Peek 2024-02-15 16-28](https://github.com/notcatt/basic-calculator/assets/90319894/ed5d55b2-7c57-40f2-b19c-768d1ee8343f)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hta29vdXlleW5lZXJsZTZiMm04eGRyNWtvMjRqcXRzMHdyYWc2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KUALExuW1GNEznWbpD/giphy.gif)
+
 
 ###### © 2024 | Francisco Antunes
